@@ -1,0 +1,1 @@
+make complete auth system with my databasein web version i used auth.js i want three onboarding screens with good design same as shadcn and then login sign up form with social auth
